@@ -1,0 +1,203 @@
+
+#NavigationContainer{
+    padding: 0px;
+}
+
+.TopMenu {
+    background-color: #000b85
+  }
+
+.navbar {
+    background-color: #0016FF;
+    height: 120px;
+}
+
+.navbar-brand{
+    font-family: lobster, serif;
+    font-size: x-large;
+    padding: 20px;
+    color: white;
+}
+
+.nav-item{
+    font-size: large;
+    padding-right: 20px;
+}
+
+.nav-link{
+    color: white;
+}
+
+
+
+.temple{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#panel1, #panel2{
+    margin: 0;
+    padding: .3rem;
+    background-color: white;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+#paneltext
+{
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+}
+
+body {
+    background:#CCCCCC ;
+}
+
+#button-addon2{
+    background-color:orangered;
+
+}
+
+#submitbutton{
+    height: fit-content;
+    background-color: #FB0977 ;
+}
+
+#Description{
+    font-size: x-large;
+}
+
+#svgbtn1,#svgbtn2,#svgbtn3,#svgbtn4{
+    border-color: black;
+    background-color: white;
+}
+
+#tag1,#tag2,#tag3,#tag4,#tag5,#tag6{
+    background-color: blue;
+    border-radius: 3px;
+    color: white;
+    padding: 3px;
+}
+
+#imgpanel{
+    display: inline-block;
+    background-color:#CCCCCC;
+    border-color: grey;
+    border-style: solid;
+    padding:25px;
+}
+
+#paddingdiv{
+    display: inline-block;
+    padding-inline: 30px;
+}
+.img-thumbnail{
+    background-color:#CCCCCC ;
+    padding: 20px;
+    border:hidden;
+}
+
+.caption{
+    text-align: center;
+}
+
+#svgbtngroup1{
+    padding: 4px;
+}
+
+#svgview{
+    background-color: rgb(4, 154, 255);
+    border:hidden
+}
+#svgfav{
+    background-color:#FB0977;
+    border:hidden;
+}
+
+#icontext{
+    display: inline;
+    color: white;
+}
+
+#FooterRow{
+    background-color: #0016FF;
+}
+
+#whitetext{
+    color: white;
+}
+
+#leftbottom{
+    padding-left: 15px;
+}
+
+#followus1{
+    background-color: rgb(236, 0, 185);
+    border:hidden;
+}
+
+#followus2{
+    background-color: rgb(10, 255, 112);
+    border:hidden
+}
+#followus3{
+    background-color: rgb(252, 59, 0);
+    border:hidden
+}
+#followus4{
+    background-color: rgb(255, 238, 0);
+    border:hidden
+}
+#followus5{
+    background-color: rgb(0, 255, 157);
+    border:hidden
+}
+
+#smallpaddingdiv{
+    display: inline-block;
+    padding-inline: 3px;
+}
+
+#recentpostssvg{
+    display: inline-block;
+}
+#recentposts{
+    color: white;
+    display: inline-block;
+}
+
+#bluetext{
+    color: lightseagreen;
+}
+
+#whiteitalic{
+    color: white;
+    font-style: italic;
+}
+
+.mr-3{
+    border-radius: 50%;
+}
+
+#submitbutton1{
+    color: white;
+    background-color: #FB0977 ;
+}
+
+#bottomfooter{
+    background-color:#000b85;
+    text-align: center;
+}
+
+#navsvg{
+    display:inline-block
+}
+
+#SearchSubmit{
+    padding-left: 300px;
+}
+
+.nav-link{
+    color: white;
+}
